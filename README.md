@@ -30,7 +30,7 @@ Make sure you have the following tools installed:
     ```
 3. **Compile the project:**
     ```sh
-    emcc -o output.html your_source_file.cpp
+    put it on your gitgub pages
     ```
 
 ## Usage
