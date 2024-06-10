@@ -33,10 +33,6 @@ Make sure you have the following tools installed:
     put it on your gitgub pages
     ```
 
-## Usage
-
-After compiling the project, you can host the `output.html` file on GitHub Pages or any web server to see the project in action.
-
 ## Contributing
 
 Contributions are welcome! If you have any improvements or suggestions, please feel free to submit a pull request.
